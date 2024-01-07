@@ -1,4 +1,4 @@
-Swaption Valuation using Black76\
+Swaption Valuation using Black76
 We will price a Swaption using Black76 model.\
 Let us consider that there is a 1x2 swaption. The swap has semi annual frequency. Assume a notional of $1M.\
 At Time T0, the yield curve is as below:
